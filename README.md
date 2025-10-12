@@ -1,4 +1,4 @@
-#Find Numbers in String C# Console App
+# Find Numbers in String C# Console App
 
 This C# console application scans a text string and finds substrings that are numbers meeting specific criteria:
 
